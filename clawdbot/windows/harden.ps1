@@ -15,6 +15,7 @@ Usage:
 
 Notes:
 - Config shapes vary across versions. This script tries a few common keys.
+- @byt3-tier HOT
 #>
 
 [CmdletBinding()]
